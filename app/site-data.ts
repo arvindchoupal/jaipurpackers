@@ -18,7 +18,7 @@ export const site = {
   email: "",
   emailHref: "",
   address: "Shop No.25/45, Block AB, Prabhu Marg, Tilak Nagar, Jaipur, Rajasthan 302004",
-  jaipurOfficeAddress: "49, A Shiv Colony, Laxmi Nagar, Hatwara Rd, Sodala, Jaipur, Rajasthan 302006",
+  jaipurOfficeAddress: "Shop No.25/45, Block AB, Prabhu Marg, Tilak Nagar, Jaipur, Rajasthan 302004",
   founded: "2007",
   sourceUrl: "https://jaipurpackers.com",
 };
@@ -131,7 +131,7 @@ export const branches = [
   },
   {
     name: "Jaipur Office",
-    address: "49, A Shiv Colony, Laxmi Nagar, Hatwara Rd, Sodala, Jaipur, Rajasthan 302006",
+    address: "Shop No.25/45, Block AB, Prabhu Marg, Tilak Nagar, Jaipur, Rajasthan 302004",
   },
 ];
 
