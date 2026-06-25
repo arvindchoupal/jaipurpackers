@@ -17,8 +17,7 @@ export function Header() {
             <Image src={logo} alt={`${site.name} logo`} fill priority className="scale-[1.55] object-contain object-center" />
           </div>
           <div className="min-w-0">
-            <p className="line-clamp-2 text-sm font-black leading-tight tracking-tight text-slate-950 sm:text-base lg:text-lg">{site.name}</p>
-            <p className="mt-1 text-[11px] font-black uppercase tracking-[0.28em] text-orange-700">Jaipur</p>
+            <p className="line-clamp-2 text-[20px] font-black leading-tight tracking-tight text-slate-950 sm:text-base lg:text-lg">{site.name}</p>
           </div>
         </Link>
 

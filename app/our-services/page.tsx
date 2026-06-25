@@ -8,7 +8,7 @@ export default function ServicesPage() {
       <PageHero
         eyebrow="Our Services"
         title="We are always available and provide our best Quality Service."
-        text="Explore service categories from Shree International Packers and Movers with a cleaner modern presentation."
+        text="Explore service categories from Shree Relocation Packers and Movers with a cleaner modern presentation."
       />
       <section className="mx-auto max-w-7xl px-5 py-20 lg:px-8">
         <div className="grid gap-6 md:grid-cols-2">

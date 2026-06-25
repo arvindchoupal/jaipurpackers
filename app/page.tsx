@@ -14,7 +14,7 @@ export default function Home() {
               We provide services
             </div>
             <h1 className="mt-6 max-w-4xl text-[2.65rem] font-black leading-[0.98] tracking-[-0.055em] sm:text-6xl lg:text-7xl">
-              SHREE INTERNATIONAL PACKERS AND MOVERS
+              SHREE RELOCATION PACKERS AND MOVERS
               <span className="block bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
                 IN JAIPUR
               </span>

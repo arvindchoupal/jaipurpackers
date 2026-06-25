@@ -152,7 +152,7 @@ export function LocationMap() {
     <div className="overflow-hidden rounded-[2rem] border border-orange-100 bg-white shadow-2xl shadow-orange-950/10">
       <iframe
         title={`${site.name} Location Map`}
-        src={`https://www.google.com/maps?q=${encodeURIComponent(site.address)}&output=embed`}
+       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.29225575021!2d75.82168589999999!3d26.894218400000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db70916f80d53%3A0x6dde7788b8c17294!2sShree%20Relocation%20Packers%20And%20Movers!5e0!3m2!1sen!2sin!4v1782395345696!5m2!1sen!2sin" 
         className="h-[420px] w-full"
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"
