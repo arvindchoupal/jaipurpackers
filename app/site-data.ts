@@ -3,7 +3,7 @@ export const site = {
   shortName: "Shree Relocation",
   title: "SHREE RELOCATION PACKERS AND MOVERS JAIPUR",
   subtitle:
-    "Our professional team members pack your household or office items and move with 100% security.",
+    "Shree International Packers and Movers Jaipur provides safe household shifting, office relocation, domestic moving, packing, loading and transport services across Jaipur. Our team handles furniture, boxes, vehicles and fragile items with proper packing, careful loading and on-time delivery.",
   welcomeTitle: "Welcome to Shree Relocation Packers & Movers",
   welcomeSubtitle: "We pack your things, store your things and deliver your things...",
   aboutTitle: "We are Packers and Movers company",

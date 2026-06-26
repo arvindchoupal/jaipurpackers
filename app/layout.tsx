@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Shree relocation Packers and Movers Jaipur",
+  title: "Shree International Packers and Movers Jaipur",
   description:
-    "Shree relocation Packers and Movers Jaipur offers reliable household shifting, office relocation, packing and moving services. Call 9001189176 for safe and fast shifting.",
+    "Shree International Packers and Movers Jaipur offers household shifting, office relocation, domestic moving, packing, loading and secure transport services. Call 9001189176 for safe and fast shifting in Jaipur.",
   keywords: [
     "Packers and Movers in Jaipur",
     "Movers and Packers Jaipur",
@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     "Office Shifting Services Jaipur",
     "Home Relocation Jaipur",
     "Local Packers Movers Jaipur",
-    "Shree relocation Packers and Movers Jaipur",
+    "Shree International Packers and Movers Jaipur",
     "Packers and Movers Bhankrota Jaipur",
   ],
 };
